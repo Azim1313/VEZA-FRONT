@@ -1,0 +1,51 @@
+@font-face {
+  font-family: "Montserrat";
+  font-display: swap;
+  src: url("/Montserrat-Black.354f6bfc.woff") format("woff"), url("/Montserrat-Black.d6c4703e.woff2") format("woff2");
+  font-weight: 900;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Montserrat";
+  font-display: swap;
+  src: url("/Montserrat-ExtraBold.64e265ba.woff") format("woff"), url("/Montserrat-ExtraBold.28beeb1c.woff2") format("woff2");
+  font-weight: 800;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Montserrat";
+  font-display: swap;
+  src: url("/Montserrat-Bold.0c8c8c97.woff") format("woff"), url("/Montserrat-Bold.e8cc3506.woff2") format("woff2");
+  font-weight: 700;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Montserrat";
+  font-display: swap;
+  src: url("/Montserrat-SemiBold.cf92f5b5.woff") format("woff"), url("/Montserrat-SemiBold.fa0f1358.woff2") format("woff2");
+  font-weight: 600;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Montserrat";
+  font-display: swap;
+  src: url("/Montserrat-Medium.6e89b15a.woff") format("woff"), url("/Montserrat-Medium.49bd2f24.woff2") format("woff2");
+  font-weight: 500;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Montserrat";
+  font-display: swap;
+  src: url("/Montserrat-Regular.29423e86.woff") format("woff"), url("/Montserrat-Regular.fb8fa761.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Montserrat";
+  font-display: swap;
+  src: url("/Montserrat-Light.b07997b7.woff") format("woff"), url("/Montserrat-Light.4508421e.woff2") format("woff2");
+  font-weight: 300;
+  font-style: normal;
+}
+
+/*# sourceMappingURL=/_fonts.1b3a57de.css.map */
